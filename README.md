@@ -1,7 +1,8 @@
 # Ecommerce Analysis: Sales Trend and Future Prediction
 ## Project Overview
 
-This document provides an analysis of key performance data for a prominent Turkey based online retail platform with locations spanning 10 states. Metrics reviewed include sales across multiple locations, product category, customer segment and time unit.
+This document provides an analysis of key performance data for a prominent Turkey based online retail platform with locations spanning 10 states. Metrics reviewed include sales across multiple locations, product category, customer segment and time unit. This dataset, sourced from Kaggle, a widely recognized platform offering copyright-free datasets, contains a single sheet with 18 columns and 17049 rows, covering orders from January, 2023 to March, 2024.The data set includes 8 product lines Books, Home & Garden, Sports, Food, Beauty, Toys, Fashion, and Electronics. The analysis was conducted using SQL and Microsoft Excel for data visualization.
+
 
 ## Technologies and Skills
 - **Technologies**: SQL (MySQL), MySQL Workbench, Power BI, DAX
@@ -16,17 +17,10 @@ The analysis addresses the following objectives:
 + Predicting sales to occur in the next six months
 + Delivering actionable recommendations to the company stakeholders
 
-The analysis was conducted using SQL and Microsoft Excel for data visualization.
-
-## Dataset
-This dataset, sourced from Kaggle, a widely recognized platform offering copyright-free datasets, contains a single sheet with 18 columns and 17049 rows, covering orders from January, 2023 to March, 2024.
-
-The data set includes 8 product lines Books, Home & Garden, Sports, Food, Beauty, Toys, Fashion, and Electronics. 
-
 ## Analysis
 I began by importing the csv file into MySQL workbench creating a database. I used Joins, CTE's, Order By, Group By, Temp Tables, Windows Functions, Aggregate Functions  and created 7 Views for my analysis. In order to create a visual representation of my findings, I imported the table into Power BI.
 
-I created 4 new tables using DAX functions: Calendar, Categories, Cities, and Customers in order to create relationships between them and ecommerce sales table
+I created 4 new tables using DAX Query tables: Calendar, Categories, Cities, and Customers in order to create relationships between them and ecommerce sales table
 
 Calendar =
 CALENDAR(
@@ -73,7 +67,7 @@ Four Slicers were added to the dashboard in order to filer the charts and KPI ca
 ## Key Insights
 + For the period of January 2023 to March 2024, a total of  TL21.78M sales was achieved with 51.34K units sold.
   
-+ The top three product categories with the highest sales are Electronics, Home & Garden, and Sports, respectively. Electronics is the product with the highest sales during this period with a total sale of TL10,481,897.65. This is a huge difference compared with the Books, the product category with lowest sales amount TL360,399.11.Although Electronics is relatively larger than Books in sales amount. I found that Books had a higher number of units sold than Electronics. Books had 6,727 units sold and Electronics had 6,277 units sold. The difference in sales amount is due to difference in price levels.
++ The top three product categories with the highest sales are Electronics, Home & Garden, and Sports, respectively. Electronics is the product with the highest sales during this period with a total sale of TL10,481,897.65. This is a huge difference compared with the Books, the product category with lowest sales amount TL360,399.11. Although Electronics is relatively larger than Books in sales amount. I found that Books had a higher number of units sold than Electronics. Books had 6,727 units sold and Electronics had 6,277 units sold. The difference in sales amount is due to difference in price levels.
 
 + There 8 product categories were almost equally popular in terms of number of units sold.
   
@@ -81,4 +75,4 @@ Four Slicers were added to the dashboard in order to filer the charts and KPI ca
 
 + It was seen that the sales from returning customers was significantly higher than that of new customers. Returning customers had 45,253 units sold and TL19,190,720.46 sales amount and New customers had 6088 units sold and TL2,588,332.13 sales. 
 
-+ There was no seasonal trend affecting sales. Monthly sales were generally around 1.3M–1.6M. Revenue increased from January through April, dipped in June, and recovered in July with an increase of 12.97% and dipped again and increased slightly in December.Revenue and sales growth was inconsistent rather than following a steady trend.
++ There was no seasonal trend affecting sales. Monthly sales were generally around 1.3M–1.6M. Revenue increased from January through April, dipped in June, and recovered in July with an increase of 12.97% and dipped again and increased slightly in December. Revenue and sales growth was inconsistent rather than following a steady trend.

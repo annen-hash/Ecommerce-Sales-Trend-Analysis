@@ -87,3 +87,5 @@ Four Slicers were added to the dashboard in order to filer the charts and KPI ca
 
 
 ## Recommendations
++ Marketing strategies to attract new customers. It is seen that majority of sales stems from existing customers. Focusing on marketing strategies like advertisement can help attract new customers which would increase sales.
++ Discount. Discounts can be given during holiday seasons like Republic Day ( October 29), Yew year's eve and  Christmas in order to boost sales during holidays.

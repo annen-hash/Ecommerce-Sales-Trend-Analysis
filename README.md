@@ -49,7 +49,7 @@ IF(ecommerce_sales[Is_Returning_Customer] = TRUE(),
     "Returning Customer",
     "New Customer")
 
-I created the 4 key measures: Total Sales, Total Orders, Units Sold, and Average Order Value
+I created the 4 key DAX measures: Total Sales, Total Orders, Units Sold, and Average Order Value
 Total Sales =
 SUM(ecommerce_sales[Total_Amount])
 

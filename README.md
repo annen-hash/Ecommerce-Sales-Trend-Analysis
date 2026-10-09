@@ -43,6 +43,7 @@ Customers =
 DISTINCT(ecommerce_sales[Customer_ID])
 
 I created a new column Customer_Type in the Ecommerce sales table in order to determine the rate of new customers vs returning customers
+
 Customer_Type =
 IF(ecommerce_sales[Is_Returning_Customer] = TRUE(),
     "Returning Customer",

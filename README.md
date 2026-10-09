@@ -26,10 +26,27 @@ The data set includes 8 product lines Books, Home & Garden, Sports, Food, Beauty
 ## Analysis
 I began by importing the csv file into MySQL workbench creating a database. I used Joins, CTE's, Order By, Group By, Temp Tables, Windows Functions, Aggregate Functions  and created 7 Views for my analysis. In order to create a visual representation of my findings, I imported the table into Power BI.
 
-<img width="650" height="482" alt="Ecommerce Dashboard" src="https://github.com/user-attachments/assets/9a36861a-84bf-4ef9-96c9-7acc6fd591b4" />
+I create 4 new tables Calendar, Categories, Cities, and Customers in order to create relationships between them and ecommerce sales table
 
+Calendar =
+CALENDAR(
+    MIN(ecommerce_sales[Date]),
+    MAX(ecommerce_sales[Date]))
 
+Categories =
+DISTINCT(ecommerce_sales[Product_Category])
 
+Cities =
+DISTINCT(ecommerce_sales[City])
 
+Customers =
+DISTINCT(ecommerce_sales[Customer_ID])
 
+I created a new column Customer_Type in the Ecommerce sales table in order to determine the rate of new customers vs returning customers
+Customer_Type =
+IF(ecommerce_sales[Is_Returning_Customer] = TRUE(),
+    "Returning Customer",
+    "New Customer")
+
+I created the 4 key measures: Total Sales, Total Orders, Units Sold, and Average Order Value
 

@@ -17,7 +17,6 @@ This document provides an analysis of key performance data for a prominent Turke
 
 ## Project Objectives
 The analysis addresses the following objectives:
-+ Evaluating the database structure
 + Calculating and analyzing sales by market size and city
 + Calculating customer retention
 + Identifying trends, consumer preferences, and changes over time

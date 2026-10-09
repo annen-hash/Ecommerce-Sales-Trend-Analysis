@@ -75,6 +75,8 @@ Four Slicers were added to the dashboard in order to filer the charts and KPI ca
 <img width="928" height="516" alt="Screenshot 2026-10-09 092445" src="https://github.com/user-attachments/assets/23977431-ef72-4be7-81e0-a39c9e9592fe" />
 Although Electronics is relatively larger than Books in sales amount. I found that Books had a higher number of units sold than Electronics. Books had 6,727 units sold and Electronics had 6,277 units sold. The difference in sales amount is due to difference in price levels.
 
+
 + The top three cities with the highest population are Istanbul, Ankara, and Izmir respectively. The vast difference between Istanbul and Eskisehir in sales size can be explained through population size. Istanbul is the city with the highest population in Turkey inhabiting nearly 20% of Turkey's total population.
-<img width="908" height="537" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/bbc8a971-8ee2-46b0-8351-1ae47d018e00" />
+<img width="880" height="528" alt="Screenshot 2026-10-09 100623" src="https://github.com/user-attachments/assets/f47a4b59-a374-43e9-aacf-857e5e510568" />
+
 

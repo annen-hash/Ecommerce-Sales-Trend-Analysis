@@ -68,3 +68,9 @@ DIVIDE(
 A relationship diagram between tables can be seen in the picture below
 <img width="539" height="445" alt="Ecommerce Dashboard Model" src="https://github.com/user-attachments/assets/3dfe0bc7-ab2c-4f20-bb0c-20e29d302629" />
 
+Four Slicers were added to the dashboard in order to filer the charts and KPI cards, by date, product, category, city and returning customers or new customers.
+
+## Key Insights
++ Electronics is the product with the highest sales during this period
+<img width="928" height="516" alt="Screenshot 2026-10-09 092445" src="https://github.com/user-attachments/assets/23977431-ef72-4be7-81e0-a39c9e9592fe" />
+

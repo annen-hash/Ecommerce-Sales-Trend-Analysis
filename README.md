@@ -26,6 +26,7 @@ The data set includes 8 product lines Books, Home & Garden, Sports, Food, Beauty
 ## Analysis
 I began by importing the csv file into MySQL workbench creating a database. I used Joins, CTE's, Order By, Group By, Temp Tables, Windows Functions, Aggregate Functions  and created 7 Views for my analysis. In order to create a visual representation of my findings, I imported the table into Power BI.
 
+<img width="650" height="482" alt="Ecommerce Dashboard" src="https://github.com/user-attachments/assets/9a36861a-84bf-4ef9-96c9-7acc6fd591b4" />
 
 
 

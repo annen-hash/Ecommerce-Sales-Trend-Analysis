@@ -71,6 +71,10 @@ A relationship diagram between tables can be seen in the picture below
 Four Slicers were added to the dashboard in order to filer the charts and KPI cards, by date, product, category, city and returning customers or new customers.
 
 ## Key Insights
-+ Electronics is the product with the highest sales during this period
++ The top three product categories with the highest sales are Electronics, Home & Garden, and Sports, respectively. Electronics is the product with the highest sales during this period with a total sale of TL10,481,897.65. This is a huge difference compared with the Books, the product category with lowest sales amount TL360,399.11.
 <img width="928" height="516" alt="Screenshot 2026-10-09 092445" src="https://github.com/user-attachments/assets/23977431-ef72-4be7-81e0-a39c9e9592fe" />
+Although Electronics is relatively larger than Books in sales amount. I found that Books had a higher number of units sold than Electronics. Books had 6,727 units sold and Electronics had 6,277 units sold. The difference in sales amount is due to difference in price levels.
+
++ The top three cities with the highest population are Istanbul, Ankara, and Izmir respectively. The vast difference between Istanbul and Eskisehir in sales size can be explained through population size. Istanbul is the city with the highest population in Turkey inhabiting nearly 20% of Turkey's total population.
+<img width="908" height="537" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/bbc8a971-8ee2-46b0-8351-1ae47d018e00" />
 

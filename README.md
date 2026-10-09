@@ -1,10 +1,17 @@
 # Ecommerce Analysis: Sales Trend and Future Prediction
+## **Table of Contents** <br>
+- [Project Overview](#project-overview) <br>
+- [Technology and Skills](#technology--skills)
+- [Project Objectives](#project-objetives)
+- [Key Insights](#key-insights)
+- [Reommendations](#Recommendations)
+
 ## Project Overview
 
-This document provides an analysis of key performance data for a prominent Turkey based online retail platform with locations spanning 10 states. Metrics reviewed include sales across multiple locations, product category, customer segment and time unit. This dataset, sourced from Kaggle, a widely recognized platform offering copyright-free datasets, contains a single sheet with 18 columns and 17049 rows, covering orders from January, 2023 to March, 2024.The data set includes 8 product lines Books, Home & Garden, Sports, Food, Beauty, Toys, Fashion, and Electronics. The analysis was conducted using SQL and Microsoft Excel for data visualization.
+This document provides an analysis of key performance data for a prominent Turkey based online retail platform with locations spanning 10 states. Metrics reviewed include sales across multiple locations, product category, customer segment and time unit. This dataset, sourced from Kaggle, a widely recognized platform offering copyright-free datasets, contains a single sheet with 18 columns and 17049 rows, covering orders from January, 2023 to March, 2024. The data set includes 8 product lines Books, Home & Garden, Sports, Food, Beauty, Toys, Fashion, and Electronics. The analysis was conducted using SQL and Microsoft Excel for data visualization.
 
 
-## Technologies and Skills
+## Technologies & Skills
 - **Technologies**: SQL (MySQL), MySQL Workbench, Power BI, DAX
 - **Skills**: Data modeling, database development, data wrangling, data cleaning, data analysis, data visualization/dashboarding
 
@@ -76,3 +83,5 @@ Four Slicers were added to the dashboard in order to filer the charts and KPI ca
 + It was seen that the sales from returning customers was significantly higher than that of new customers. Returning customers had 45,253 units sold and TL19,190,720.46 sales amount and New customers had 6088 units sold and TL2,588,332.13 sales. 
 
 + There was no seasonal trend affecting sales. Monthly sales were generally around 1.3M–1.6M. Revenue increased from January through April, dipped in June, and recovered in July with an increase of 12.97% and dipped again and increased slightly in December. Revenue and sales growth was inconsistent rather than following a steady trend.
+
+## Recommendations

@@ -18,5 +18,17 @@ The analysis addresses the following objectives:
 
 The analysis was conducted using SQL and Microsoft Excel for data visualization.
 
-##Dataset
-This dataset, sourced from Kaggle, a widely recognized platform offering copyright-free datasets, contains a single sheet with 18 columns, covering orders from January, 2023 to March, 2024.
+## Dataset
+This dataset, sourced from Kaggle, a widely recognized platform offering copyright-free datasets, contains a single sheet with 18 columns and 17049 rows, covering orders from January, 2023 to March, 2024.
+
+The data set includes 8 product lines Books, Home & Garden, Sports, Food, Beauty, Toys, Fashion, and Electronics. 
+
+## Analysis
+I began by importing the csv file into MySQL workbench creating a database. I used Joins, CTE's, Order By, Group By, Temp Tables, Windows Functions, Aggregate Functions  and created 7 Views for my analysis. In order to create a visual representation of my findings, I imported the table into Power BI.
+
+
+
+
+
+
+

@@ -91,3 +91,5 @@ Four Slicers were added to the dashboard in order to filer the charts and KPI ca
 + Discount. Discounts can be given during holiday seasons like Republic Day ( October 29), Yew year's eve and  Christmas in order to boost sales during holidays.
 
 ## Limitations
++ The short historical period restricts seasonal analysis. The causes of sales fluctuations over the months would have been more clearer if data for several years was available The sales increase and decreases could have been analyzed better to identify the causes if the data for several years was available.
++ The forecast accuracy of the trend chart has not been established. If newer data had been available a comparison between predicted level of sales and results would have been possible.

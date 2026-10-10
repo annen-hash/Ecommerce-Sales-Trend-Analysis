@@ -1,4 +1,4 @@
-# Ecommerce Analysis: Sales Trend and Future Prediction
+# Ecommerce Sales Trend Analysis
 ## **Table of Contents** <br>
 - [Project Overview](#project-overview) <br>
 - [Technology and Skills](#technology--skills)

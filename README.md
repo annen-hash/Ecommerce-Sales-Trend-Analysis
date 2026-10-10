@@ -82,7 +82,7 @@ Four Slicers were added to the dashboard in order to filer the charts and KPI ca
 
 + It was seen that the sales from returning customers was significantly higher than that of new customers. Returning customers had 45,253 units sold and TL19,190,720.46 sales amount and New customers had 6088 units sold and TL2,588,332.13 sales. 
 
-+ There was no seasonal trend affecting sales. Monthly sales were generally around 1.3M–1.6M. Revenue increased from January through April, dipped in June, and recovered in July with an increase of 12.97% and dipped again and increased slightly in December. Revenue and sales growth was inconsistent rather than following a steady trend.
++ There was no seasonal trend affecting sales. Monthly sales were generally around 1.3M–1.6M. Revenue increased from January through April, dipped in June, and recovered in July with an increase of 12.97% and dipped again and increased slightly in December. Then in early 2024, January to March, there was a decrease in sales. Revenue and sales growth was inconsistent rather than following a steady trend.
 <img width="659" height="488" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/28a3826a-49c6-4b39-9d10-ba6a25c97557" />
 
 

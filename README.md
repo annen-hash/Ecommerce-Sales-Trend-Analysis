@@ -13,8 +13,8 @@ This document provides an analysis of key performance data for a prominent Turke
 
 
 ## Technologies & Skills
-- **Technologies**: SQL (MySQL), MySQL Workbench, Power BI, DAX
-- **Skills**: Data modeling, database development, data wrangling, data cleaning, data analysis, data visualization/dashboarding
+- **Technologies**: SQL (MySQL), MySQL Workbench, Power BI
+- **Skills**: Data modeling, database development, data wrangling, data cleaning, data analysis, DAX, data visualization/dashboarding
 
 ## Project Objectives
 The analysis addresses the following objectives:

@@ -2,7 +2,7 @@
 ## **Table of Contents** <br>
 - [Project Overview](#project-overview) <br>
 - [Technology and Skills](#technology--skills)
-- [Project Objectives](#project-objetives)
+- [Project Objectives](#project-objectives)
 - [Key Insights](#key-insights)
 - [Reommendations](#recommendations)
 - [Limitations](#limitations)

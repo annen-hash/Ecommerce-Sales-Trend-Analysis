@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-This document provides an analysis of key performance data for a prominent Turkey based online retail platform with locations spanning 10 states. Metrics reviewed include sales across multiple locations, product category, customer segment and time unit. This dataset, sourced from Kaggle, a widely recognized platform offering copyright-free datasets, contains a single sheet with 18 columns and 17049 rows, covering orders from January, 2023 to March, 2024. The data set includes 8 product lines Books, Home & Garden, Sports, Food, Beauty, Toys, Fashion, and Electronics. The analysis was conducted using SQL and Microsoft Excel for data visualization.
+This document provides an analysis of key performance data for a prominent Turkey based online retail platform with locations spanning 10 states. Metrics reviewed include sales across multiple locations, product category, customer segment and time unit. This dataset, sourced from Kaggle, a widely recognized platform offering copyright-free datasets, contains a single sheet with 18 columns and 17049 rows, covering orders from January, 2023 to March, 2024. The data set includes 8 product lines Books, Home & Garden, Sports, Food, Beauty, Toys, Fashion, and Electronics. The analysis was conducted using SQL and Power BI for data visualization.
 
 
 ## Technologies & Skills

@@ -1,7 +1,7 @@
 # Ecommerce Sales Trend Analysis
 ## **Table of Contents** <br>
 - [Project Overview](#project-overview) <br>
-- [Technology and Skills](#technology-skills)
+- [Technologies and Skills](#technologies--skills)
 - [Project Objectives](#project-objectives)
 - [Key Insights](#key-insights)
 - [Reommendations](#recommendations)

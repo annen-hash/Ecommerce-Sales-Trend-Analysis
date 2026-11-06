@@ -3,6 +3,7 @@
 - [Project Overview](#project-overview) <br>
 - [Technologies and Skills](#technologies--skills)
 - [Project Objectives](#project-objectives)
+- [Analysis](#analysis)
 - [Key Insights](#key-insights)
 - [Reommendations](#recommendations)
 - [Limitations](#limitations)
